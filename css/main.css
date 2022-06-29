@@ -1,0 +1,26 @@
+.block{
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 850px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width: 200px;
+    border: 1px solid lavender;
+    align-items: center;
+    margin: 1rem;
+    padding: 2rem;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+b{
+    font-size: 40px;
+}
+p{
+    color: grey;
+    font-size: 17px;
+}
